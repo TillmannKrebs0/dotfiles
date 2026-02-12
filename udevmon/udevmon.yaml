@@ -1,0 +1,8 @@
+- job: swap_y_u
+  devices:
+    /dev/input/by-id/usb-RDMCTMZT_ZEN_65_RGB_210a4931-event-kbd:
+      remap:
+        y: u
+        u: y
+
+

@@ -1,0 +1,4 @@
+xkb_symbols "swap_y_u" {
+    key <AC07> { [ u, U ] };  // y wird zu u
+    key <AC24> { [ y, Y ] };  // u wird zu y
+};
